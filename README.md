@@ -8,10 +8,6 @@ This research is an application development to increase the reliability of food 
 - Food tracking status update system
 - can check information later
 
-
-## Source Food Delivery on blockchain
-- [Code](https://drive.google.com/drive/folders/1V8gP539OWX-9q7cJgkX6-Wfrz-eJ_4zz?usp=sharing)
-
 ## Report Food Delivery on blockchain
 - [Report](https://drive.google.com/drive/folders/1zwgWZE8KVvd058xW6U5OI349GlOD254N?fbclid=IwAR17-XQEBSJQ7pqEbZoLa5_r5hyVHBtY5lo9yGMeOvKQMMx4Tm6NLi-38pk)
 
