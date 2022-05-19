@@ -9,10 +9,10 @@ This research is an application development to increase the reliability of food 
 - can check information later
 
 ## Report Food Delivery on blockchain
-- [Report](https://drive.google.com/drive/folders/1zwgWZE8KVvd058xW6U5OI349GlOD254N?fbclid=IwAR17-XQEBSJQ7pqEbZoLa5_r5hyVHBtY5lo9yGMeOvKQMMx4Tm6NLi-38pk)
+- [Report](https://drive.google.com/drive/folders/1F6cxj3jXg3WF_YuLUsFvpXaV8jgOtMZI?fbclid=IwAR0ffIT_TlMMzsIp8yHecyrK_6MyVp5rKMKni5yVMrQ5vZnhlmBUQIOv9qA)
 
 ## Presentation 
-- [Video](https://youtu.be/Vp7PmyXzY-w)
+- [Video](https://youtu.be/0YLl2tHGo8Q)
 
 ## Result
 ![279910772_395953342427512_747103684189492759_n](https://user-images.githubusercontent.com/103322325/169257880-80fe262b-128e-40c7-9b36-2187b4503129.png)
